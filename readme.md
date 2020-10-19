@@ -1,6 +1,6 @@
 #nlw
 
-Esse projeto foi realizado durante a segunda versão da NLW (Next Level Week) da rocketseat 
+Esse projeto foi realizado durante a segunda versão da NLW (Next Level Week) da @rocketseat-education 
 que foi realizada entre os dias 03 e 07 de agosto de 2020 
 
 Tal foi o resultado no dia em que terminei as aulas da NLW
